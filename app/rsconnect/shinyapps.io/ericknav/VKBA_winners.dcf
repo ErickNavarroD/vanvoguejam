@@ -1,0 +1,12 @@
+name: VKBA_winners
+title: VKBA_winners
+username: ericknav
+account: ericknav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14981098
+bundleId: 10507890
+url: https://ericknav.shinyapps.io/VKBA_winners/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
